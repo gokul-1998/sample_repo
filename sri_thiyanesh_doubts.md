@@ -1,1 +1,2 @@
-
+- what is ssh?
+- create repo without readme
